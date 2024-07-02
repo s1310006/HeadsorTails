@@ -26,7 +26,7 @@ class HeadorTails {
 	    }
 	}
 	System.out.println("Heads: "+head+", Tails: "+tail);
-	    if(head>=2) System.out.println("You win!!");
-	    else System.out.println("You lose.");
+	    if(head>=2) System.out.println(name+" win!!");
+	    else System.out.println(name+" lose.");
     }
 }
