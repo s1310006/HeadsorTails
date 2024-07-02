@@ -26,5 +26,6 @@ class HeadorTails {
 	    }
 	}
 	System.out.println("Heads: "+head+", Tails: "+tail);
+	System.out.println(name +" won !!");
     }
 }
